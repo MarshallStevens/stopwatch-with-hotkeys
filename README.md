@@ -4,6 +4,9 @@ A lightweight, always-on-top stopwatch for Windows that you control with global 
 
 Windows' built-in Clock app has a stopwatch, but there are no hotkeys for it. You have to click into the app every time. I built this so I can start, pause, and reset a timer without leaving whatever I'm working in (or playing).
 
+<img width="800" height="450" alt="timer gif" src="https://github.com/user-attachments/assets/c62c688b-40d5-403f-8b05-38a6a11c83a3" />
+
+
 ## Features
 
 - **Global hotkeys** that work from any app, including fullscreen games
