@@ -56,6 +56,9 @@ Settings are at the top of the script:
 - **Colors:** edit `ColorBlue`, `ColorYellow`, `ColorRed` (hex values)
 - **Thresholds:** change the `30` / `60` values in `UpdateColors()`
 - **Hide on reset:** add `MyGui.Hide()` at the end of the Reset hotkey block
+- Each hotkey is defined in the `HOTKEYS` section of `stopwatch.ahk`. To change one, replace the key name before the `::`.
+
+For example, to make **F9** start the stopwatch instead of `0`:
 
 ## Known Behavior
 
